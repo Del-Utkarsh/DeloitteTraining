@@ -1,0 +1,27 @@
+.shadow1{
+    color: blueviolet;
+    text-align: center;
+    padding: 0.2em;
+    text-shadow: 1rem;
+}
+
+#shadow{
+    text-align: center;
+    color: rgb(117, 150, 109);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    text-decoration: line-through;
+    text-shadow: 20px;
+    font-size: 1.5em;
+    line-height: 2em;
+    text-transform: capitalize;
+}
+
+span{
+    text-decoration: overline;
+}
+
+body{
+    background-image: url('https://static.vecteezy.com/system/resources/previews/000/189/640/original/vector-colorful-background-with-geometrical-shapes.jpg');
+    background-color: antiquewhite;
+}

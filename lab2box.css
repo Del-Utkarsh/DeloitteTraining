@@ -1,0 +1,14 @@
+.box1{
+    color: aqua;
+    width: 60%;
+    height: 300px;
+    border: 2px solid black;
+    margin: 10% 5% 0 5%;   
+    text-align: right;
+    border-radius: 0.5em;
+    text-shadow: 1em;
+    background-color: bisque;
+}
+body{
+    background-color: antiquewhite;
+}
